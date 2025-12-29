@@ -1,0 +1,7 @@
+# Ignore compiled files
+*.exe
+*.o
+*.obj
+
+# Ignore data files
+accounts.txt
